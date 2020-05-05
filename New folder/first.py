@@ -1,2 +1,2 @@
 #first.py
-print("Hello Wrold")
+print("Henlo World")
